@@ -1,0 +1,29 @@
+{
+  "name": "super_pos_waiter_rn",
+  "displayName": "super_pos_waiter_rn",
+  "expo": {
+    "name": "super_pos_waiter_rn",
+    "slug": "super_pos_waiter_rn",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#8ecae6"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#012a4a"
+      }
+    }
+  }
+}
